@@ -1,7 +1,6 @@
 # Bash Menu 
 
-This is comandline terminal menu for linux. 
-This is my first project where i have disided to play witch bash to create a menu
+A Bash-based Linux management script that provides an interactive menu for installing applications and running system updates across Debian, Manjaro, and Fedora. It supports package managers, Flatpak, and Snap, making it easy to set up and maintain a development environment from one place.
 
 
 ![image](https://github.com/EvolWolf/MyProjects/assets/18408720/ed497248-6c03-442c-bdc5-b01f7beb63bf)
